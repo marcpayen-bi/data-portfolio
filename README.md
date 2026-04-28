@@ -33,7 +33,7 @@ An end-to-end Power BI project analyzing the operational performance of a hospit
 
 ### Deliverables
 📄 Project Report:
-French Report : [project-01-hospital-performance-powerbi.pdf](project-01/project-01-hospital-performance-powerbi.pdf)
+French Report : project-01/hospital-performance-powerbi-fr.pdf
 
 
 ---
